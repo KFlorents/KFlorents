@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning Java, JS and HTML/CSS
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on different project that will help advance my skills
-- 📫 How to reach me: messag me
+- 📫 How to reach me: message me
 
 
 <!---
